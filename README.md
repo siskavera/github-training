@@ -2,7 +2,7 @@
 Test project for Github training. This is my first (technically second) repository.
 
 ## About
-This is a description of the project. This one has no point, so therefore there is none.
+This is a description of the project. This project is not very important, but still has a fairly long description.
 
 ## Team
 It's just a team of me and my imaginary friends, Tim, Tom and Ted.
